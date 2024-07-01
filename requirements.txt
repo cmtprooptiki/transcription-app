@@ -5,6 +5,5 @@ streamlit_mic_recorder
 streamlit-option-menu
 streamlit-extras
 python-docx
-tempfile
 pydub==0.25.1
 openai

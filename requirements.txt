@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+streamlit_mic_recorder
+streamlit-option-menu
+streamlit-extras
+pydub
+tempfile
+os
+openai
